@@ -59,11 +59,11 @@ This Streamlit application assists HR professionals in improving their hiring pr
 
 1. Add the Groq API Key
    
-   ```bash
+  ```bash
   EXPORT GROQ_API_KEY=<INSERT_API_KEY_HERE>
   ```
 
-3. Run the Streamlit app:
+2. Run the Streamlit app:
 
   ```bash
   streamlit run src/app.py
